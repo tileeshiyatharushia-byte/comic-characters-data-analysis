@@ -79,3 +79,6 @@ This project was created as a portfolio project to develop practical skills in D
 
 Information Systems Engineering Undergraduate at SLIIT
 
+## 🔗 Kaggle Notebook
+
+[View the project on Kaggle](https://www.kaggle.com/code/tharushitileeshiya/comic-characters-data-analysis-and-visualization)
